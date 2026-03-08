@@ -19,8 +19,8 @@ TransLingua is a premium, high-performance translation application built with **
 ### Installation
 1. Clone the repository:
    ```bash
- git clone https://github.com/mabuchanu45-c/TransLingua-AI-Powered-Multi-Language-Translator.git
-cd TransLingua-AI-Powered-Multi-Language-Translator
+   git clone https://github.com/mabuchanu45-c/TransLingua-AI-Powered-Multi-Language-Translator.git
+   cd TransLingua-AI-Powered-Multi-Language-Translator
    ```
 2. Install dependencies:
    ```bash
